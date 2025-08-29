@@ -1,2 +1,3 @@
 # hello-world
-Este repositório é para praticar o fluxo do GitHub.
+
+Just a man trying to undestand how this world works
